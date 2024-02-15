@@ -1,3 +1,3 @@
-# This is the Github Repository for my IBM Capstone PRoject
+# This is the Github Repository for my IBM Capstone Project
 
-##markdown File in repository
+##All jupiter notebooks used to completethe project are contained within
